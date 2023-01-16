@@ -25,5 +25,5 @@ I'm currently studying Software Engineering at University of Minho. In my free t
 #
 
 ### 📊 Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaodiaslobo&show_icons=true&theme=gruvbox&bg_color=00000000"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodiaslobo&show_icons=true&theme=gruvbox&bg_color=00000000"/>
+<img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api?username=joaodiaslobo&show_icons=true&theme=gruvbox&bg_color=00000000"/>
+<img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=joaodiaslobo&show_icons=true&theme=gruvbox&bg_color=00000000"/>
